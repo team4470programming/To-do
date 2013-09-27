@@ -6,11 +6,11 @@ To-do
     
 2) Skeleton code created
 
-3) lesson plan laid out and ready to go
+3) lesson plans laid out and ready to go
 
 4) Git server up and running (district or not)
 
-5) Everyone pared up and reasonably happy
+5) Everyone paired up and reasonably happy
 
 Kids on the team:
 
