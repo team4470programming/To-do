@@ -10,4 +10,28 @@ To-do
 
 4) Git server up and running (district or not)
 
-5) Everyone pared up and (reasonably happy)
+5) Everyone pared up and reasonably happy
+
+Kids on the team:
+
+Melia
+
+Corey
+
+Zach
+
+Zack
+
+Max
+
+Matt
+
+Chris
+
+Justin 
+
+Johan
+
+Ryan
+
+Jared
